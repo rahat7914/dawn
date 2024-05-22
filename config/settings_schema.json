@@ -18,8 +18,8 @@
       {
         "type": "range",
         "id": "logo_width",
-        "min": 50,
-        "max": 300,
+        "min": 10,
+        "max": 200,
         "step": 10,
         "default": 100,
         "unit": "px",
